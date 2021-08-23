@@ -3,9 +3,6 @@ import sympy
 #C = {C}_{0}\exp{{k}_{T}t}
 #k = {A}_{0}\exp{\dfrac{{E}_{a}}{RT}}
 
-A_0 = 
-E_a = 
-GAS_CONSTANT = 
 
 #(32 °F − 32) × 5/9 + 273.15 = 273.15 K
 
